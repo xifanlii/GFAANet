@@ -4,4 +4,6 @@ Here we store our work:Gated Feature Aggregate and Alignment Network for Real-ti
 
 The file "cam.py" is our tool for generating heatmaps.
 
+The floder "hotmaps" contains some of our visualization results.
+
 The code for our work（GFAANet) will be made publicly available after the paper is published.
